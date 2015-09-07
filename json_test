@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Aged & Community Services Association of NSW & ACT Incorporated",
+        "Location Full Address": "Level 3, 9 Blaxland Road, RHODES NSW 2138",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0877019,
+          -33.8308762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Aged and Community Services SA & NT",
+        "Location Full Address": "246 Glen Osmond Rd, FULLARTON SA 5063",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6329901,
+          -34.9511595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Aged Care and Housing Group Incorporated",
+        "Location Full Address": "22 Henley Beach Road, MILE END SA 5031",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5767271,
+          -34.92303208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Alzheimer's Australia Inc",
+        "Location Full Address": "22 Henley Beach Road, MILE END SA 5031",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5767271,
+          -34.92303208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Alzheimer's Australia NSW",
+        "Location Full Address": "Building 21, 120 Coxs Road, NORTH RYDE NSW 2113",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1267556,
+          -33.79888531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "CommunityWest Incorporated",
+        "Location Full Address": "Unit 5  3 Castlegate Way, WOODVALE WA 6026",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79239,
+          -31.77607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Macular Degeneration Foundation",
+        "Location Full Address": "Suite 902, Level 9, 443-451 Kent Street, SYDNEY NSW 2000",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.204761,
+          -33.87225412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Department of Forensic Medicine",
+        "Location Full Address": "Victorian Institute of Forensic Medicine, 65 Kavanagh Street, SOUTHBANK VIC 3006",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9644581,
+          -37.82428859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Pastoral & Spiritual Care of Older People Inc",
+        "Location Full Address": "15 Blackall Street, BARTON ACT 2600",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1374306,
+          -35.30528206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Senses Australia",
+        "Location Full Address": "11 Kitchener Street, BURSWOOD WA 6100",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.89946,
+          -31.96448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Southern Adelaide Local Health Network  (SALHN) Inc",
+        "Location Full Address": "216 Daws Rd, Daws Road, DAW PARK SA 5041",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5889639,
+          -34.99181045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "Chermside and District Senior Citizens Centre Incorporated",
+        "Location Full Address": "60 Kuran Street, CHERMSIDE QLD 4032",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0346487,
+          -27.38949973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "University of Queensland",
+        "Location Full Address": "1 Union Road, ST LUCIA, BRISBANE QLD 4072",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0044314,
+          -27.49899719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capacity Building within Aged Care Services for the Delivery of High Quality Care",
+        "Location Name": "University of the Sunshine Coast",
+        "Location Full Address": "90 Sippy Downs Drive, SIPPY DOWNS QLD 4556",
+        "marker-color": "#00cc00",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0696523,
+          -26.71803784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capital Infrastructure and Support",
+        "Location Name": "Halls Creek Peoples Church Incorporated",
+        "Location Full Address": "440 Neighbour Street, HALLS CREEK WA 6770",
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6752982,
+          -18.22584535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capital Infrastructure and Support",
+        "Location Name": "Nganampa Health Council Inc",
+        "Location Full Address": "3 Wilkinson Street, ALICE SPRINGS NT 0870",
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8707539,
+          -23.70070772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activity or Program Name": "Capital Infrastructure and Support",
+        "Location Name": "Umoona Aged Care Aboriginal Corp",
+        "Location Full Address": "Lot 89 Hospital Road, COOBER PEDY SA 5723",
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.762213,
+          -29.00152885
+        ]
+      }
+    }
+  ]
+}
